@@ -46,6 +46,7 @@ public class ShardingTest {
         for (Course c : courses){
             System.out.println(c);
         }
+        System.out.println("结果打印完成");
 
     }
 }
